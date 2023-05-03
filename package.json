@@ -2,7 +2,7 @@
   "name": "spectacle-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ifralou.github.io/presentation",
+  "homepage": "https://ifralou.github.io/presentation",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

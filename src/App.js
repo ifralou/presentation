@@ -10,7 +10,6 @@ import {
     Text,
     OrderedList,
     Link,
-    Box,
     SlideLayout
 } from 'spectacle';
 
